@@ -49,7 +49,7 @@ c_b = imporvement coeff. in the initial condition for the flow
 You may want to redirect the output to collect this information in the folder data.
 
 ## Contact
-For any problems, suggestions, ideas, please contact us: rubeoar@maths.tcd.ie
+For any problems, suggestions, ideas, please contact us: distinguibile@gmail.com 
 
 ## License
 GNU GENERAL PUBLIC LICENSE
