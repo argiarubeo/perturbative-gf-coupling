@@ -2,7 +2,7 @@
 
 Perturbative_gf_coupling is a C++ package which computes the gradient flow coupling normalisation at leading order in perturbation theory (O(g_0^2)).
 
-In finite volume, with Schroedinger Functional boundary conditions, a non perturbative definition of the strong coupling constant requires a normalisation factor. Depending of the particular observable chosen, it can be computed in perturbation theory. Here we consider the GF coupling defined in terms of the so-called action density E(t,x) (see reference by M. Luescher [arXiv:1404.5930]).
+In finite volume, with Schroedinger Functional boundary conditions, a non perturbative definition of the strong coupling constant requires a normalisation factor. Depending on the particular observable chosen, it can be computed in perturbation theory. Here we consider the GF coupling defined in terms of the so-called action density E(t,x) (see reference by M. Luescher [arXiv:1404.5930]).
 The first numerical result were presented at the lattice conference 2016 (see reference by A. R. and S. Sint [arXiv:1612.07047]), further studies are presented in my PhD thesis (to appear).
 The improvement coefficient for the initial condition in the flow equation is discussed in the reference by A. Ramos and S. Sint [arXiv:1508.05552].
 
@@ -49,7 +49,7 @@ c_b = imporvement coeff. in the initial condition for the flow
 You may want to redirect the output to collect this information in the folder data.
 
 ## Contact
-For any problems, suggestions, ideas, please contact us: distinguibile@gmail.com 
+For any problem, suggestion, idea, please contact us: distinguibile@gmail.com 
 
 ## License
 GNU GENERAL PUBLIC LICENSE
